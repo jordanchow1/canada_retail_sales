@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Project Overview  
+## Project Overview  
 This Tableau project visualizes **retail sales trends across industries in Canada from 2017 onward**.  
 It aims to help users explore which sectors are growing or declining and how sales vary over time and region.  
 
@@ -16,18 +16,18 @@ It aims to help users explore which sectors are growing or declining and how sal
 
 ---
 
-## 🔍 Dashboard Highlights  
-- 📈 **Time-Series Trends** — Monthly/annual changes in sales by industry  
-- 🧭 **Filter by Province & Industry** — Compare across geographic and sector categories  
-- 🎨 **Visual Clarity** — Color-coded charts, clean layout, interactive hover details  
-- 🔦 **Trend Insights** — Quickly identify industries with steady growth or decline  
+## Dashboard Highlights  
+- **Time-Series Trends** — Monthly/annual changes in sales by industry  
+- **Filter by Province & Industry** — Compare across geographic and sector categories  
+- **Visual Clarity** — Color-coded charts, clean layout, interactive hover details  
+- **Trend Insights** — Quickly identify industries with steady growth or decline  
 
 **View Live Dashboard:**  
-👉 [**Canada Retail Sales by Industry (2017–Present)**](https://public.tableau.com/app/profile/jordan.chow4539/viz/CanadaRetailSalesByIndustryFrom2017/Dashboard1?publish=yes)
+[**Canada Retail Sales by Industry (2017–Present)**](https://public.tableau.com/app/profile/jordan.chow4539/viz/CanadaRetailSalesByIndustryFrom2017/Dashboard1?publish=yes)
 
 ---
 
-## 🛠️ Data & Tools  
+## Data & Tools  
 - **Tool:** Tableau Public  
 - **Data Source:** Statistics Canada — *Retail Trade Sales by Industry* (Open Data)  
 - **Timeframe:** 2017 – Present  
