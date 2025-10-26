@@ -31,6 +31,7 @@ Findings:
 1. Since 2007, there has been a stable scenario where Automobiles and Vehicles sectors dominate in terms of sales volumes among all industries.
 2. E-commerce sales are on the rise, reflecting digital adoption among consumers.
 3. Sales in the Clothing & Accessories Stores category dropped by nearly 40% in 2020, the steepest among all sectors.
+4. Predictable peaks appear each December across most industries due to holiday spending.
 
 ---
 
