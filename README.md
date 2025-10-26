@@ -1,6 +1,6 @@
 # 🇨🇦 Canada Retail Sales by Industry (2017–Present)
 
-**Interactive Tableau Dashboard by [Jordan Chow](https://public.tableau.com/app/profile/jordan.chow4539)**  
+** Tableau Dashboard by [Jordan Chow](https://public.tableau.com/app/profile/jordan.chow4539)**  
 
 ---
 
