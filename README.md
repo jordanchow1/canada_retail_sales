@@ -27,6 +27,12 @@ It aims to help users explore which sectors are growing or declining and how sal
 
 ---
 
+Findings:
+1. Since 2007, there has been a stable scenario where automobiles and vehicles dominate sales volumes among all industries.
+2. E-commerce sales are on the rise, reflecting digital adoption among consumers.
+
+---
+
 ## Data & Tools  
 - **Tool:** Tableau Public  
 - **Data Source:** Statistics Canada — *Retail Trade Sales by Industry* (Open Data)  
