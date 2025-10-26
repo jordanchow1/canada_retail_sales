@@ -37,5 +37,5 @@ It aims to help users explore which sectors are growing or declining and how sal
   - Interactive filtering and highlighting  
   - Dashboard design and UX optimization
  
-## Data Source
-Statistics Canada: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010006701&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2017&cubeTimeFrame.endMonth=08&cubeTimeFrame.endYear=2025&referencePeriods=20170101%2C20250801
+## Data Link
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010006701&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2017&cubeTimeFrame.endMonth=08&cubeTimeFrame.endYear=2025&referencePeriods=20170101%2C20250801
