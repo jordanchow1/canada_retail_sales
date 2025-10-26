@@ -28,7 +28,7 @@ It aims to help users explore which sectors are growing or declining and how sal
 ---
 
 Findings:
-1. Since 2007, there has been a stable scenario where Automobiles and Vehicles sectors dominate sales among all industries.
+1. Since 2007, the Automobiles and Vehicles sectors have consistently led all industries in sales.
 2. E-commerce sales are on the rise, reflecting digital adoption among consumers.
 3. Sales in the Clothing & Accessories Stores category dropped by nearly 40% in 2020, the steepest among all sectors.
 4. Predictable peaks appear each December across most industries due to holiday spending.
